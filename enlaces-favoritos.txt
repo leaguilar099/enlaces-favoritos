@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+ <head>
+ <title>enlaces-favoritos.html</title>
+ </head>
+ <body>
+ <h1><font face="Arial">Enlaces favoritos</font></h1>
+
+<hr>
+
+ <ol><a href="buscadores.html">Buscadores</a></ol>
+ <ol><a href="redes_sociales.html">Redes Sociales</a></ol>
+ </body>
+</html>
